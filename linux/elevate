@@ -1,0 +1,2 @@
+echo "Elevating Command..."
+sudo $1
